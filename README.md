@@ -10,6 +10,7 @@
  :heavy_check_mark: CI/CD
  :heavy_check_mark: Monitoring Stack
  :heavy_check_mark: Infrastucture as Code
+ :heavy_check_mark: Rancher Lover
 
 
 ---
